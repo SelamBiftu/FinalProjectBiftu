@@ -1,0 +1,132 @@
+#my-navbar {
+  background-color: rgb(219, 180, 180);
+  font-size: xx-large;
+  padding: 10px;
+}
+.navbar-brand {
+  font-size: xx-large;
+}
+.jumbotron {
+  background-color: peru;
+  background-image: url(grecianwater.jpg);
+  margin-top: 70px;
+  padding-bottom: 50%;
+  height: 25px;
+}
+.gift {
+  border: 2px solid red;
+  background: burlywood;
+  color: rgba(0, 0, 200, 0.6);
+  box-shadow: 1px 1px 2px rgba(0, 0, 200, 0.4);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+video {
+  max-width: fit-content;
+  object-fit: cover;
+  width: 900px;
+  height: 480px;
+}
+.p1-history,
+.p2-history,
+.p3-history {
+  font-size: x-large;
+}
+ol {
+  font-size: medium;
+}
+.h2LM,
+.h2LH {
+  font-size: xx-large;
+  padding-top: 100px;
+}
+h5 {
+  font-style: italic;
+  font-size: x-large;
+  color: blue;
+  background-color: beige;
+}
+.list-group-item {
+  background-color: beige;
+}
+table {
+  border: 2px solid rgb(135, 18, 18);
+  letter-spacing: 2px;
+  font-size: 2rem;
+  border-style: solid;
+}
+caption {
+  font-size: large;
+}
+.modelrx,
+.modelnx,
+.modelgx {
+  border: 2px solid black;
+  /* box-shadow: 1px 1px 2px rgba(0, 0, 200, 0.4);*/
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: block;
+  cursor: pointer;
+  font-size: 75px;
+  list-style: inside;
+}
+.modelrx {
+  background-color: green;
+  color: whitesmoke;
+}
+.modelnx {
+  background-color: yellow;
+  color: blue;
+  list-style-image: url(1grecian-water.jpg);
+}
+.modelgx {
+  background-color: red;
+  color: white;
+}
+.name {
+  font-size: large;
+}
+#comment {
+  height: 200px;
+  width: 500px;
+}
+.submitbtn {
+  border: 2px solid red;
+  background: burlywood;
+  color: rgba(0, 0, 200, 0.6);
+  box-shadow: 1px 1px 2px rgba(0, 0, 200, 0.4);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+#formbdy {
+  color: rgb(43, 202, 226);
+  font-size: x-large;
+}
+.ctctp1 {
+  color: mediumvioletred;
+  font-size: xx-large;
+  font-family: sans-serif;
+}
+.ctctp2 {
+  color: red;
+  font-style: italic;
+  font-size: x-large;
+}
+h2 + p {
+  font-size: x-large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-top: 2%;
+}
+footer {
+  font-style: italic;
+  font-size: large;
+  text-align: center;
+}
+#contactus {
+  padding-top: 5%;
+}
